@@ -6,6 +6,10 @@ public class TestClass {
         int average = 0;
         int iterator = 0;
 
+        while(i < size){
+            System.out.println("Hoho");
+        }
+
         while(index < size){
             sum+=numbers[index];
             index++;

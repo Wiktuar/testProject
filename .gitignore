@@ -2,6 +2,7 @@
 *.jar
 /target
 .idea
+/out
 /uploads
 *.iml
 /lib
